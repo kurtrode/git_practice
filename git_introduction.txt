@@ -1,0 +1,1 @@
+The commit command moves files from the staging area to the repository.
