@@ -1,0 +1,2 @@
+github -u to show it is going upstream
+ls -la in the terminal shows hidden files with descriptions.
